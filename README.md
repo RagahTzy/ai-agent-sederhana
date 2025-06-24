@@ -15,9 +15,9 @@ Before using this AI agent, you must:
 2. Create a data folder inside your project directory.
 3. Create a profile.json file inside the data folder.  
 Fill profile.json with the following content:  
-{
-  "name": "YourName",
-  "nickname": "YourNickname"
+{  
+  "name": "YourName",  
+  "nickname": "YourNickname"  
 }
 
 ---
