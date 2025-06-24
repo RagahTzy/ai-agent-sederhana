@@ -13,8 +13,8 @@ Before using this AI agent, you must:
    ```bash
    ollama pull gemma:2b
 2. Create a data folder inside your project directory.
-3. Create a profile.json file inside the data folder.
-Fill profile.json with the following content:
+3. Create a profile.json file inside the data folder.  
+Fill profile.json with the following content:  
 {
   "name": "YourName",
   "nickname": "YourNickname"
