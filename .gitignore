@@ -1,0 +1,46 @@
+# ========================
+# Ignore Python cache
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ========================
+# Ignore virtualenvs
+# ========================
+env/
+venv/
+.venv/
+
+# ========================
+# Ignore IDE/editor configs
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+# Ignore personal files
+# ========================
+*.bat
+*.log
+
+# ========================
+# Ignore build artifacts
+# ========================
+build/
+dist/
+*.spec
+
+# ========================
+# Ignore system files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Ignore local data
+# ========================
+data/*.json
