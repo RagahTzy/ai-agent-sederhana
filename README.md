@@ -1,4 +1,13 @@
-# 🤖 Simple AI Agent
+# I'm Fucking Stupid
+i just realize, this not a fucking AI agent  
+this just a fucking python program but on the side there is AI that you can talk to  
+i'm really sorry, i'm fucking stupid  
+but i will not delete this repository  
+this repo will remind me that i was fucking stupid
+
+---
+
+## 🤖 Simple AI Agent
 
 This is a **simple AI agent** made only for managing daily schedules.  
 This AI agent runs in the terminal — there is no UI yet.
