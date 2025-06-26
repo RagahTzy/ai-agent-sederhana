@@ -1,5 +1,5 @@
 # I'm Fucking Stupid
-i just realize, this not a fucking AI agent  
+i just realize, this is not a fucking AI agent  
 this just a fucking python program but on the side there is AI that you can talk to  
 i'm really sorry, i'm fucking stupid  
 but i will not delete this repository  
